@@ -1,0 +1,6 @@
+{
+	"name": "Hello world",
+	"desc": "Вывести строку \"Hello world!\"",
+	"input": [],
+	"output": "Строка \"Hello world!\""
+}
